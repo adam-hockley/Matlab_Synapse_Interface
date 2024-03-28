@@ -1,5 +1,5 @@
 # Matlab_Synapse_Interface
-Matlab control of a TDT system for stimulus generation and multi-channel recordings.
+Matlab control of a TDT system for stimulus generation and multi-channel recordings, using the [Synapse Matlab API.](https://www.tdt.com/docs/sdk/synapse-api/overview/)
 
 Includes:
 
