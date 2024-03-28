@@ -12,4 +12,4 @@ A Matlab GUI for creating Oddball stimulus paradigm files and controlling the Sy
 ## 3) Synapse files for a system consisting of an RZ2, RZ6 and PZ5.
 
 To-do list:
-- [ ] Check all required functions are also in the repository
+- [ ] 
